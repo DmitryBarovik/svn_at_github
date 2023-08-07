@@ -1,2 +1,2 @@
 hello world
-added this line with notepad
+added this line with notepad. Not staged part
